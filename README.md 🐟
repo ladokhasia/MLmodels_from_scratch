@@ -2,7 +2,7 @@
 
 🌍 🌃 🌵 🌬️ 🔥 🦐 🦀 🌴🍀🌷 🌊 🐋
 
-```
+```python
 import os
 import tarfile
 import time
