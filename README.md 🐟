@@ -20,7 +20,7 @@ import torchvision.transforms as tt # ToTensor, Compose, Normalize, RandomCrop, 
 import numpy as np
 import matplotlib.pyplot as plt
 %matplotlib inline
-
+```
 def device():
   if torch.cuda.is_available():
     return torch.device('cuda')
