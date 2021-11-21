@@ -1,3 +1,3 @@
-# resnet9_from_scratch with pytorch
+# ML models from scratch with pytorch and tensorflow
 🐉 🐟
 
