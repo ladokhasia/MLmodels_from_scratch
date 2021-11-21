@@ -243,7 +243,8 @@ plt.axis('off');
 
 torch.save(model.state_dict(), 'cifar10_resnet9.pth')
 new_model = ForwardPart(3, 10)
-new_model.load_state_dict(torch.load('cifar10_resnet9.pth')) ```
+new_model.load_state_dict(torch.load('cifar10_resnet9.pth')) 
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
